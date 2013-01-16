@@ -1,5 +1,5 @@
 " Vim color file
-" Maintainer : Sebastian-Torsten Tillmann <sttillmann@users.sourceforge.net>
+" Maintainer : st <sttillmann@users.sourceforge.net>
 " Last Change: 2006-02-21
 " Version    : 1.0.1
 
